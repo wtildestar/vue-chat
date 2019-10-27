@@ -1,3 +1,5 @@
+You can visit the project in expanded access on firebase servers https://vue-chat-560b2.web.app/
+
 # vue-chat
 
 ## Project setup
